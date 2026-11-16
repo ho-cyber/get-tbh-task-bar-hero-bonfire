@@ -199,4 +199,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*TBH: Task Bar Hero · Updated 2026-11-15 · Shared under the MIT License*
+*TBH: Task Bar Hero · Updated 2026-11-16 · Shared under the MIT License*
